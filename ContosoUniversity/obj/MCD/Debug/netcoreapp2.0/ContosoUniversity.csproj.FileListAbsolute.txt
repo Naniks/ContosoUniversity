@@ -1,0 +1,10 @@
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\bin\MCD\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\bin\MCD\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\bin\MCD\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\bin\MCD\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\bin\MCD\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\obj\MCD\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\obj\MCD\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\obj\MCD\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\obj\MCD\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Ольга\source\repos\Example web-app MVC\ContosoUniversity\ContosoUniversity\obj\MCD\Debug\netcoreapp2.0\ContosoUniversity.pdb
